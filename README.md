@@ -477,4 +477,5 @@ Supported by / 支持者:
 * Zixiang Wang, Student, Hefei University of Technology
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
-* Zuokun Ouyang, PhD Student, Université d'Orléans
+* Zuokun Ouyang，奥尔良大学博士生
+* damyangn中国长城科技集团
